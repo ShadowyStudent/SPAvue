@@ -1,5 +1,23 @@
-# Vue 3 + Vite
+# PSAvue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Aplicación de una sola página (SPA) desarrollada con Vue 3 y Vue Router. Cada ruta muestra una estructura de control de Vue con una breve explicación y un ejemplo sencillo.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Datos del estudiante
+
+- **Nombre completo**: [Álvarez López Miguel]
+- **No. de Control**: [22270001]
+- **Carrera**: [Sistemas Computacionales]
+- **Grupo**: [S5B]
+- **Materia**: [Programación Web]
+
+## Estructuras de control incluidas
+
+- `v-if / v-else-if / v-else`
+- `v-show`
+- `v-for`
+- `v-bind:key`
+- `v-once`
+
+## Descripción del proyecto
+
+Este proyecto tiene como objetivo mostrar el uso básico de las principales estructuras de control de Vue.
